@@ -92,7 +92,7 @@ export default function Telecharger() {
                     </p>
                     <div className="flex space-x-4 mt-4">
                     <a
-                      href="/dmsx64/DERVOX_Monitor_Server.exe"
+                      href="/DERVOX_Monitor_Server.exe"
                       download
                       className="inline-flex items-center space-x-2 bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition"
                     >
@@ -150,7 +150,7 @@ export default function Telecharger() {
                     <p className="text-gray-400 mt-2"> Dervox Monitor Server fonctionne en arrière-plan pour surveiller les processus système, les performances du noyau et la mémoire sur Arch Linux.</p>
                     <div className="flex space-x-4 mt-4">
                     <a
-                      href="/dmsx64/DERVOX_Monitor_Server.exe"
+                      href="/DERVOX_Monitor_Server.exe"
                       download
                       className="inline-flex items-center space-x-2 bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition"
                     >
@@ -175,7 +175,7 @@ export default function Telecharger() {
                     <p className="text-gray-400 mt-2">Application légère et sécurisée pour Debian, avec tableau de bord web pour visualiser l'état du serveur en temps réel.</p>
                     <div className="flex space-x-4 mt-4">
                     <a
-                      href="/dmsx64/DERVOX_Monitor_Server.exe"
+                      href="/DERVOX_Monitor_Server.exe"
                       download
                       className="inline-flex items-center space-x-2 bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition"
                     >
