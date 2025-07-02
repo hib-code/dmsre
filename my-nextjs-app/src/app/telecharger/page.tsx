@@ -44,7 +44,7 @@ export default function Telecharger() {
             <button className="mt-4 px-4 py-2 bg-blue-500 text-white rounded dark:bg-blue-700">Recommended</button>
           </div>
           <div className="rounded-lg shadow-md p-6 bg-white dark:bg-gray-800">
-            <img src="/images/system/application.png" alt="Virtual Machines" className="mx-auto w-16"  />
+            <img src="/images/system/application.png" alt="script dms" className="mx-auto w-16"  />
             <h3 className="text-lg font-bold mt-4 text-gray-900 dark:text-white">Installer script</h3>
             <ul className="text-sm mt-2 text-gray-700 dark:text-gray-300">
             <li>✔ Détection automatique de l’environnement cible</li>
